@@ -1,6 +1,6 @@
 # Node, Typescript, Docker boiler plate
 
-This is a Node.js application written in TypeScript and packaged with Docker.
+This is a Node.js application written in TypeScript and packaged with Docker. Setup based on https://dev.to/dariansampare/setting-up-docker-typescript-node-hot-reloading-code-changes-in-a-running-container-2b2f
 
 ## Prerequisites
 
