@@ -3,9 +3,9 @@ version: '3.7'
 services:
   ts-node-docker:
     build:
-      context: .
+      context: .  
       dockerfile: Dockerfile
-      target: base
+      target: dev
     volumes:
       - .:/home/node/app:delegated
     container_name: ts-node-docker
